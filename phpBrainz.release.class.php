@@ -167,5 +167,7 @@ class phpBrainz_Release{
                 return false;
             }
         }
+        return true;
     }
 }
+?>
